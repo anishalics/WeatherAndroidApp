@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="entry">Welcome back to programming, Anish!</string>
+    <string name="city">City</string>
+    <string name="c">-- °C</string>
+    <string name="weather_condition">Weather condition</string>
+    <string name="sunset">Sunset: --</string>
+    <string name="sunrise">Sunrise: --</string>
+    <string name="wind_m_s">Wind: -- m/s</string>
+    <string name="humidity">Humidity: --%</string>
+    <string name="feels_like_c">Feels like: --°C</string>
+</resources>
