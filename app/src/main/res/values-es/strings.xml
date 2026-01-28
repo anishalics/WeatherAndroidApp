@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    <string name="feels_like_placeholder">Sensación térmica: -- °C</string>
+    <string name="humidity_placeholder">Humedad: -- %</string>
+    <string name="wind_placeholder">Velocidad del viento: -- m/s</string>
+    <string name="pressure_placeholder">Presión: -- hPa</string>
+    <string name="sunrise_placeholder">Amanecer: --</string>
+    <string name="sunset_placeholder">Atardecer: --</string>
+
+    <string name="city_placeholder">Ciudad</string>
+    <string name="temp_placeholder">-- °C</string>
+    <string name="condition_placeholder">Condición del clima</string>
+
+    <string name="feels_like">Sensación térmica: %1$.1f °C</string>
+    <string name="humidity">Humedad: %1$d %%</string>
+    <string name="wind">Velocidad del viento: %1$.1f m/s</string>
+    <string name="pressure">Presión: %1$d hPa</string>
+
+    <string name="sunrise">Amanecer: %1$s</string>
+    <string name="sunset">Atardecer: %1$s</string>
+
+    <string name="weather_icon_desc">Icono del clima</string>
+
+    <string name="gps_off_title">La ubicación está desactivada</string>
+    <string name="gps_off_message">Su GPS está desactivado. Por favor, active los servicios de ubicación para obtener el clima actual.</string>
+    <string name="not_now">Ahora no</string>
+    <string name="turn_on">Activar</string>
+</resources>

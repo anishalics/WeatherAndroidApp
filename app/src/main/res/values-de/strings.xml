@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Wetter</string>
+
+    <string name="feels_like_placeholder">Gefühlt: -- °C</string>
+    <string name="humidity_placeholder">Luftfeuchtigkeit: -- %</string>
+    <string name="wind_placeholder">Windgeschwindigkeit: -- m/s</string>
+    <string name="pressure_placeholder">Luftdruck: -- hPa</string>
+    <string name="sunrise_placeholder">Sonnenaufgang: --</string>
+    <string name="sunset_placeholder">Sonnenuntergang: --</string>
+
+    <string name="city_placeholder">Ort</string>
+    <string name="temp_placeholder">-- °C</string>
+    <string name="condition_placeholder">Wetterlage</string>
+
+    <string name="feels_like">Gefühlt: %1$.1f °C</string>
+    <string name="humidity">Luftfeuchtigkeit: %1$d %%</string>
+    <string name="wind">Windgeschwindigkeit: %1$.1f m/s</string>
+    <string name="pressure">Luftdruck: %1$d hPa</string>
+
+    <string name="sunrise">Sonnenaufgang: %1$s</string>
+    <string name="sunset">Sonnenuntergang: %1$s</string>
+
+    <string name="weather_icon_desc">Wetter-Icon</string>
+
+    <string name="gps_off_title">Standort ist ausgeschaltet</string>
+    <string name="gps_off_message">Ihr GPS ist ausgeschaltet. Bitte aktivieren Sie die Standortdienste, um das aktuelle Wetter zu erhalten.</string>
+    <string name="not_now">Nicht jetzt</string>
+    <string name="turn_on">Einschalten</string>
+</resources>

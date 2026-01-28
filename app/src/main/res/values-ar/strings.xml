@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">الطقس</string>
+
+    <string name="feels_like_placeholder">درجة الحرارة المحسوسة: -- °C</string>
+    <string name="humidity_placeholder">الرطوبة: -- %</string>
+    <string name="wind_placeholder">سرعة الرياح: -- م/ث</string>
+    <string name="pressure_placeholder">الضغط الجوي: -- hPa</string>
+    <string name="sunrise_placeholder">شروق الشمس: --</string>
+    <string name="sunset_placeholder">غروب الشمس: --</string>
+
+
+    <string name="city_placeholder">المدينة</string>
+    <string name="temp_placeholder">-- °C</string>
+    <string name="condition_placeholder">حالة الطقس</string>
+
+    <string name="feels_like">درجة الحرارة المحسوسة: %1$.1f °C</string>
+    <string name="humidity">الرطوبة: %1$d %%</string>
+    <string name="wind">سرعة الرياح: %1$.1f م/ث</string>
+    <string name="pressure">الضغط الجوي: %1$d hPa</string>
+
+    <string name="sunrise">شروق الشمس: %1$s</string>
+    <string name="sunset">غروب الشمس: %1$s</string>
+
+    <string name="weather_icon_desc">أيقونة الطقس</string>
+
+    <string name="gps_off_title">تم إيقاف الموقع</string>
+    <string name="gps_off_message">تم إيقاف نظام تحديد الموقع (GPS). يرجى تشغيل خدمات الموقع للحصول على حالة الطقس الحالية.</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="turn_on">تشغيل</string>
+</resources>

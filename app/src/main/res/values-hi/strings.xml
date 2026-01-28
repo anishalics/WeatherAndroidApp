@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">मौसम</string>
+
+    <string name="feels_like_placeholder">महसूस तापमान: -- °C</string>
+    <string name="humidity_placeholder">नमी: -- %</string>
+    <string name="wind_placeholder">हवा की गति: -- मी/से</string>
+    <string name="pressure_placeholder">वायुदाब: -- hPa</string>
+    <string name="sunrise_placeholder">सूर्योदय: --</string>
+    <string name="sunset_placeholder">सूर्यास्त: --</string>
+
+    <string name="city_placeholder">शहर</string>
+    <string name="temp_placeholder">-- °C</string>
+    <string name="condition_placeholder">मौसम की स्थिति</string>
+
+    <string name="feels_like">महसूस तापमान: %1$.1f °C</string>
+    <string name="humidity">नमी: %1$d %%</string>
+    <string name="wind">हवा की गति: %1$.1f मी/से</string>
+    <string name="pressure">वायुदाब: %1$d hPa</string>
+
+    <string name="sunrise">सूर्योदय: %1$s</string>
+    <string name="sunset">सूर्यास्त: %1$s</string>
+
+    <string name="weather_icon_desc">मौसम आइकन</string>
+
+    <string name="gps_off_title">स्थान बंद है</string>
+    <string name="gps_off_message">आपका GPS बंद है। वर्तमान मौसम जानने के लिए कृपया स्थान सेवाएँ चालू करें।</string>
+    <string name="not_now">अभी नहीं</string>
+    <string name="turn_on">चालू करें</string>
+</resources>

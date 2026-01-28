@@ -1,7 +1,18 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Weather" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+<resources>
+    <style name="Theme.Weather" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <item name="colorSurface">#0e1c2e</item>
+    </style>
+
+    <style name="ThemeOverlay.Weather.AlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <!-- This controls the dialog buttons color -->
+        <item name="buttonBarPositiveButtonStyle">@style/Weather.DialogButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Weather.DialogButton</item>
+    </style>
+
+    <style name="Weather.DialogButton" parent="Widget.Material3.Button.TextButton.Dialog">
+        <item name="android:textColor">?attr/colorPrimary</item>
     </style>
 </resources>

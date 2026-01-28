@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">天气</string>
+
+    <string name="feels_like_placeholder">体感温度：-- °C</string>
+    <string name="humidity_placeholder">湿度：-- %</string>
+    <string name="wind_placeholder">风速：-- 米/秒</string>
+    <string name="pressure_placeholder">气压：-- 百帕</string>
+    <string name="sunrise_placeholder">日出：--</string>
+    <string name="sunset_placeholder">日落：--</string>
+
+    <string name="city_placeholder">城市</string>
+    <string name="temp_placeholder">-- °C</string>
+    <string name="condition_placeholder">天气状况</string>
+
+    <string name="feels_like">体感温度：%1$.1f °C</string>
+    <string name="humidity">湿度：%1$d %%</string>
+    <string name="wind">风速：%1$.1f 米/秒</string>
+    <string name="pressure">气压：%1$d 百帕</string>
+
+    <string name="sunrise">日出：%1$s</string>
+    <string name="sunset">日落：%1$s</string>
+
+    <string name="weather_icon_desc">天气图标</string>
+
+    <string name="gps_off_title">定位已关闭</string>
+    <string name="gps_off_message">您的 GPS 已关闭。请开启定位服务以获取当前天气信息。</string>
+    <string name="not_now">暂不</string>
+    <string name="turn_on">开启</string>
+</resources>

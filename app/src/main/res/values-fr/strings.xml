@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Météo</string>
+
+    <string name="feels_like_placeholder">Ressenti : -- °C</string>
+    <string name="humidity_placeholder">Humidité : -- %</string>
+    <string name="wind_placeholder">Vitesse du vent : -- m/s</string>
+    <string name="pressure_placeholder">Pression : -- hPa</string>
+    <string name="sunrise_placeholder">Lever du soleil : --</string>
+    <string name="sunset_placeholder">Coucher du soleil : --</string>
+
+    <string name="city_placeholder">Ville</string>
+    <string name="temp_placeholder">-- °C</string>
+    <string name="condition_placeholder">Condition météo</string>
+
+    <string name="feels_like">Ressenti : %1$.1f °C</string>
+    <string name="humidity">Humidité : %1$d %%</string>
+    <string name="wind">Vitesse du vent : %1$.1f m/s</string>
+    <string name="pressure">Pression : %1$d hPa</string>
+
+    <string name="sunrise">Lever du soleil : %1$s</string>
+    <string name="sunset">Coucher du soleil : %1$s</string>
+
+    <string name="weather_icon_desc">Icône météo</string>
+
+    <string name="gps_off_title">La localisation est désactivée</string>
+    <string name="gps_off_message">Votre GPS est désactivé. Veuillez activer les services de localisation pour obtenir la météo actuelle.</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="turn_on">Activer</string>
+</resources>
